@@ -145,7 +145,7 @@ Heinlein, Robert A. "All You Zombies." In _The Fantasies of Robert A. Heinlein_.
 Elusive knowledge
 {{< tdclose >}}
 {{< tdopen >}}
-Lewis, David K. "Elusive Knowledge." _Australasian Journal of Philosophy_ 74, no. 4 (1996): 549-567. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://fitelson.org/epistemology/lewis.pdf))
+Lewis, David K. "Elusive Knowledge." _Australasian Journal of Philosophy_ 74, no. 4 (1996): 549-567. ([PDF](https://fitelson.org/epistemology/lewis.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
